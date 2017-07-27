@@ -1,0 +1,238 @@
+{
+    "melon": {
+        "menuId": 54020101,
+        "count": 10,
+        "page": 1,
+        "totalPages": 10,
+        "rankDay": "20170727",
+        "rankHour": "15",
+        "songs": {
+            "song": [
+                {
+                    "songId": 30529996,
+                    "songName": "Ko Ko Bop",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 724619,
+                                "artistName": "EXO"
+                            }
+                        ]
+                    },
+                    "albumId": 10080589,
+                    "albumName": "THE WAR - The 4th Album",
+                    "currentRank": 1,
+                    "pastRank": 1,
+                    "playTime": 190,
+                    "issueDate": "20170718",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30512671,
+                    "songName": "빨간 맛 (Red Flavor)",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 780066,
+                                "artistName": "Red Velvet (레드벨벳)"
+                            }
+                        ]
+                    },
+                    "albumId": 10077879,
+                    "albumName": "The Red Summer - Summer Mini Album",
+                    "currentRank": 2,
+                    "pastRank": 2,
+                    "playTime": 191,
+                    "issueDate": "20170709",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30492279,
+                    "songName": "비도 오고 그래서 (Feat. 신용재)",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 751611,
+                                "artistName": "헤이즈 (Heize)"
+                            }
+                        ]
+                    },
+                    "albumId": 10074454,
+                    "albumName": "/// (너 먹구름 비)",
+                    "currentRank": 3,
+                    "pastRank": 3,
+                    "playTime": 205,
+                    "issueDate": "20170626",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30519033,
+                    "songName": "Artist",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 602056,
+                                "artistName": "지코 (ZICO)"
+                            }
+                        ]
+                    },
+                    "albumId": 10078915,
+                    "albumName": "TELEVISION",
+                    "currentRank": 4,
+                    "pastRank": 4,
+                    "playTime": 192,
+                    "issueDate": "20170712",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30492276,
+                    "songName": "널 너무 모르고",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 751611,
+                                "artistName": "헤이즈 (Heize)"
+                            }
+                        ]
+                    },
+                    "albumId": 10074454,
+                    "albumName": "/// (너 먹구름 비)",
+                    "currentRank": 5,
+                    "pastRank": 5,
+                    "playTime": 189,
+                    "issueDate": "20170626",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30481578,
+                    "songName": "마지막처럼",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 995169,
+                                "artistName": "BLACKPINK"
+                            }
+                        ]
+                    },
+                    "albumId": 10072696,
+                    "albumName": "마지막처럼",
+                    "currentRank": 6,
+                    "pastRank": 6,
+                    "playTime": 213,
+                    "issueDate": "20170622",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30529995,
+                    "songName": "전야 (前夜) (The Eve)",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 724619,
+                                "artistName": "EXO"
+                            }
+                        ]
+                    },
+                    "albumId": 10080589,
+                    "albumName": "THE WAR - The 4th Album",
+                    "currentRank": 7,
+                    "pastRank": 7,
+                    "playTime": 176,
+                    "issueDate": "20170718",
+                    "isTitleSong": "false",
+                    "isHitSong": "true",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30488202,
+                    "songName": "나로 말할 것 같으면 (Yes I am)",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 750053,
+                                "artistName": "마마무"
+                            }
+                        ]
+                    },
+                    "albumId": 10073791,
+                    "albumName": "Purple",
+                    "currentRank": 8,
+                    "pastRank": 8,
+                    "playTime": 211,
+                    "issueDate": "20170622",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30468654,
+                    "songName": "남이 될 수 있을까",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 792022,
+                                "artistName": "볼빨간사춘기"
+                            },
+                            {
+                                "artistId": 714975,
+                                "artistName": "스무살"
+                            }
+                        ]
+                    },
+                    "albumId": 10070846,
+                    "albumName": "남이 될 수 있을까",
+                    "currentRank": 9,
+                    "pastRank": 9,
+                    "playTime": 194,
+                    "issueDate": "20170613",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                },
+                {
+                    "songId": 30467550,
+                    "songName": "매일 듣는 노래 (A Daily Song)",
+                    "artists": {
+                        "artist": [
+                            {
+                                "artistId": 205746,
+                                "artistName": "황치열"
+                            }
+                        ]
+                    },
+                    "albumId": 10070673,
+                    "albumName": "Be ordinary",
+                    "currentRank": 10,
+                    "pastRank": 10,
+                    "playTime": 259,
+                    "issueDate": "20170613",
+                    "isTitleSong": "true",
+                    "isHitSong": "false",
+                    "isAdult": "false",
+                    "isFree": "false"
+                }
+            ]
+        }
+    }
+}
