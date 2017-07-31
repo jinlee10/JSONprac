@@ -26,7 +26,7 @@ public class BoardTest {
 	public BoardTest(){
 
 		//네트워크 변수
-		String listURL = "http://192.168.205.112/JSProject/day5/list.txt";
+		String listURL = "http://192.168.205.122/JSProject/day5/list.txt";
 		
 		URL url = null;
 		HttpURLConnection conn = null;
